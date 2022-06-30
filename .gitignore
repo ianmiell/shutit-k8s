@@ -1,0 +1,6 @@
+*pyc
+vagrant_run
+secret
+dockerpass
+gcp.json
+aws.sh
